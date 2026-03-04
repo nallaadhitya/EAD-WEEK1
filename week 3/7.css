@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+div{
+    height:500px ;
+    display: flex;
+}
+header{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(190, 190, 254);
+}
+aside {
+    width: 30%;
+    background-color: lightpink;
+}
+main {
+    width: 70%;
+    background-color: beige;
+}
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(240, 190, 155);
+}
