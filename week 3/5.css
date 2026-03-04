@@ -1,0 +1,26 @@
+div{
+    height: 50px;
+    width: 50px;
+    background-color: burlywood;
+    border: 2px solid red;
+    margin: 5px;
+    display: inline-block;
+}
+#static{
+    position: static;
+}
+#absolute{
+    position: absolute;
+    left: 100px;
+    top: 5px;
+}
+#relative{
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+#outer{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}

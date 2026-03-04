@@ -1,0 +1,11 @@
+div{
+    background-color: aqua;
+}
+li{
+    display: inline-block;
+    list-style-type: none; 
+}
+li:hover{
+    background-color: rgb(153, 153, 235);
+    border: 2px solid black;
+}
